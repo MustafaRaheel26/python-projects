@@ -11,3 +11,6 @@ if st.button("Calculate BMI"):
         st.write(f"Your BMI is {bmi:.2f}")
     else:
         st.write("Height must be greater than zero!")
+
+
+# Deployed URL: https://bmi-calculator-mustafa.streamlit.app/
